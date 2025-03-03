@@ -6,7 +6,7 @@
     
     <meta name="author" content="Волков Михаил">
     
-    <title>Демонстрационный проект</title>
+    <title>Демонстрационный git проект</title>
     
     <link href="/tailwind.min.css" rel="stylesheet">
     <style>
